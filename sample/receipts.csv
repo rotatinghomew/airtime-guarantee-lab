@@ -1,0 +1,6 @@
+seq,action,order,slot,evidence
+1,confirm,silver,rel120,-
+2,evidence_withdrawn,silver,rel120,i25
+3,slot_cancelled,silver,rel120,-
+4,confirm,mint,main120,-
+5,evidence_withdrawn,mint,main120,x2

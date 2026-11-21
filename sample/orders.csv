@@ -1,0 +1,5 @@
+order,region,tier,exclusive,earliest,latest,seconds,minimum
+silver,east,finals,G,30,180,20,79
+mint,east,finals,G,30,210,15,82
+jade,west,finals,G,30,230,20,52
+echo,east,finals,-,30,230,15,65

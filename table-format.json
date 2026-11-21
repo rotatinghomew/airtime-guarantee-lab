@@ -1,0 +1,42 @@
+{
+  "orders": {
+    "order": "str",
+    "region": "str",
+    "tier": "str",
+    "exclusive": "str",
+    "earliest": "int",
+    "latest": "int",
+    "seconds": "int",
+    "minimum": "int"
+  },
+  "exposures": {
+    "id": "str",
+    "channel": "str",
+    "region": "str",
+    "tier": "str",
+    "start": "int",
+    "end": "int",
+    "seconds": "int",
+    "status": "str",
+    "low": "int",
+    "high": "int"
+  },
+  "intersections": {
+    "id": "str",
+    "exposures": "str",
+    "low": "int",
+    "high": "int"
+  },
+  "slots": {
+    "id": "str",
+    "exposure": "str",
+    "alternative": "str"
+  },
+  "receipts": {
+    "seq": "int",
+    "action": "str",
+    "order": "str",
+    "slot": "str",
+    "evidence": "str"
+  }
+}

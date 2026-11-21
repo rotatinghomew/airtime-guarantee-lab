@@ -1,0 +1,9 @@
+id,channel,region,tier,start,end,seconds,status,low,high
+x1,live,east,finals,35,39,25,base,70,70
+x2,relay,east,finals,35,39,25,base,68,68
+x3,highlights,east,finals,75,79,15,base,38,38
+x4,live,west,finals,35,39,25,base,49,49
+x5,relay,east,finals,120,125,30,plan,36,42
+x6,live,east,finals,120,125,25,plan,45,52
+x7,live,west,finals,142,145,30,plan,24,30
+x8,relay,east,finals,165,168,20,plan,30,37
